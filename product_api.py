@@ -32,8 +32,3 @@ def fetch_trendyol_product_data(product_url):
         "price": product_price
     }
 
-# Example usage
-product_url = "https://www.trendyol.com/supplementler/com-creatine-creapure-120-kapsul-p-770005297?boutiqueId=61&merchantId=105100"
-product_data = fetch_trendyol_product_data(product_url)
-
-print(product_data)
