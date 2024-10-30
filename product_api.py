@@ -31,4 +31,3 @@ def fetch_trendyol_product_data(product_url):
         "image": product_image,
         "price": product_price
     }
-
